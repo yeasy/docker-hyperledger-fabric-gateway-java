@@ -9,7 +9,6 @@ If you want to quickly deploy a local cluster without any configuration and vagr
 * [`latest` (latest/Dockerfile)](https://github.com/yeasy/docker-hyperledger-fabric-gateway-java/blob/master/Dockerfile): Default to track latest master branch.
 * [`release-2.2` (release-2.2/Dockerfile)](https://github.com/yeasy/docker-hyperledger-fabric-gateway-java/blob/master/release-2.2/Dockerfile): 2.2.x release.
 * [`release-1.4` (release-1.4/Dockerfile)](https://github.com/yeasy/docker-hyperledger-fabric-gateway-java/blob/master/release-1.4/Dockerfile): 1.4.x release.
-* [`1.2.0` (v1.2.0/Dockerfile)](https://github.com/yeasy/docker-hyperledger-fabric-gateway-java/blob/master/v1.2.0/Dockerfile): 1.2.0 release.
 
 For more information about this image and its history, please see the relevant manifest file in the [`yeasy/docker-hyperledger-fabric-gateway-java` GitHub repo](https://github.com/yeasy/docker-hyperledger-fabric-gateway-java).
 
